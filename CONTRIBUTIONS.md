@@ -25,12 +25,12 @@
 |Task / File|Owner|Evidence|
 |-|-|-|
 |GitHub repo creation + instructor access|Bryan|https://github.com/Decadencez/cs2430-team4-p2|
-|Folder structure (src/, docs/)|Bryan|Committed|
+|Folder structure (src/, docs/)|Bryan/Cameron|Committed|
 |docs/ProjectPlan.md|Bryan|docs/ProjectPlan.md|
 |docs/ScopeAndPseudocode.md (artifact 1)|Bryan|docs/ScopeAndPseudocode.md|
 |docs/StructureDiagram.md (artifact 2)|Bryan|docs/StructureDiagram.md|
-|README.md|Bryan|README.md|
-|CONTRIBUTIONS.md|Bryan|CONTRIBUTIONS.md|
+|README.md|Bryan/Cameron|README.md|
+|CONTRIBUTIONS.md|Bryan/Cameron|CONTRIBUTIONS.md|
 |Branch protection + PR workflow|Bryan|GitHub repo settings|
 |src/team4/SortingAlgorithm.java|Zachary|src/team4/SortingAlgorithm.java|
 |src/team4/SortResult.java|Zachary|src/team4/SortResult.java|
@@ -40,7 +40,7 @@
 |src/team4/MergeSort.java|John|src/team4/MergeSort.java|
 |src/team4/QuickSort.java|John|src/team4/QuickSort.java|
 |src/team4/ProjectDriver.java|John|src/team4/ProjectDriver.java|
-|src/team4/TestSuite.java|Cameron|src/team4/TestSuite.java|
+|src/team4/TestSuite.java|Zachary|src/team4/TestSuite.java|
 |Team report|All|cs2430\_team4\_p2\_Report.pdf|
 |Screencast|All|No video link yet|
 
