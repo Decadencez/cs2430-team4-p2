@@ -35,12 +35,12 @@
 |11|Implement ShakerSort w/ comparison counting|Zachary|Done|src/team4/ShakerSort.java|
 |12|Implement HeapSort w/ comparison counting|Zachary|Done|src/team4/HeapSort.java|
 |13|Implement ProjectDriver (test driver + output)|John|Done|src/team4/ProjectDriver.java|
-|14|Write TestSuite + edge cases|Cameron|In Progress|src/team4/TestSuite.java|
-|15|Run experiments for n = 4, 6, 8|All|To Do|—|
-|16|Collect best/worst/average data|All|To Do|—|
-|17|Write team report|All|To Do|—|
-|18|Record screencast|All|To Do|—|
-|19|Final zip + Canvas submission|Bryan|To Do|—|
+|14|Write TestSuite + edge cases|Cameron|Done|src/team4/ProjectDriver.java|
+|15|Run experiments for n = 4, 6, 8|All|Done|src/team4/ProjectDriver.java|
+|16|Collect best/worst/average data|All|Done|src/team4/ProjectDriver.java|
+|17|Write team report|All|Done|Final Submission|
+|18|Record screencast|All|Done|Final Submission|
+|19|Final zip + Canvas submission|Bryan|Done|Final Submission|
 
 \---
 
@@ -53,8 +53,8 @@
 |All 4 algorithms implemented + passing tests||Done|
 |Experimental runs complete (n = 4, 6, 8)||Done|
 |Report draft complete||Done|
-|Screencast recorded||To Do|
-|Final submission||To Do|
+|Screencast recorded||Done|
+|Final submission||Done|
 
 
 
